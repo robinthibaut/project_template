@@ -11,7 +11,7 @@ This template is designed to help you get started with your Python scientific pr
 Simply click on the ["Use this template"](https://github.com/robinthibaut/project_template/generate) button above to start using this template. You can then rename the project directory and start working on your project by cloning it to your system.
 
 ### Directories
-The `project_name` directory is where your project's code will live. The `scripts`, `notebooks`, and `data` directories are where you'll store your project's Python scripts, Jupyter notebooks, and data files, respectively. The `outputs` directory is where your project's output files will be stored (e.g., results, figures...). Finally, the report directory contains a LaTeX template for your project's report.
+The `project_name` directory is where your project's code will live. The `scripts`, `notebooks`, and `data` directories are where you'll store your project's Python scripts, Jupyter notebooks, and data files, respectively. The `outputs` directory is where your project's output files will be stored (e.g., results, figures...). Finally, the `report` directory contains a LaTeX template for your project's report.
 
 ### Files
 The `README.md` file contains this information and is intended to help you understand and use the template.
