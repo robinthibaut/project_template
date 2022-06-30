@@ -19,8 +19,8 @@ class Directories:
     data_dir: str = join(main_dir, "data")
     results_dir: str = join(main_dir, "outputs")
 
-    package_dir = dirname(main_dir)
-    latex_dir = join(package_dir, "report")
+    package_dir: str = dirname(main_dir)
+    latex_dir: str = join(package_dir, "report")
 
 
 @dataclass
