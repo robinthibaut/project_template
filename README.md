@@ -1,4 +1,6 @@
-## Python Scientific Project Template
+![](report/img/repository-open-graph-template.png)
+
+[//]: # (## Python Scientific Project Template)
 
 Welcome to this Python project template!
 
