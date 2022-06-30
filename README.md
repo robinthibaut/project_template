@@ -1,4 +1,4 @@
-![](report/img/repository-open-graph-template.png)
+![](report/img/repository-template.png)
 
 [//]: # (## Python Scientific Project Template)
 
