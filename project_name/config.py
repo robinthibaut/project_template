@@ -1,4 +1,4 @@
-# Copyright (c) 2022. Robin Thibaut, Ghent University
+# Copyright (c) 2023. Robin Thibaut, Lawrence Berkeley National Laboratory
 
 import os
 import platform
@@ -7,7 +7,7 @@ from os.path import dirname, join
 
 
 class Machine(object):
-    computer: str = platform.node()
+    computer: str = platform.node()  # Computer name
 
 
 @dataclass
